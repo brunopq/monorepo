@@ -1,0 +1,6 @@
+[submodule "auauth"]
+	path = auauth
+	url = git@github.com:brunopq/auauth.git
+[submodule "stellarator"]
+	path = stellarator
+	url = git@github.com:brunopq/stellarator.git
