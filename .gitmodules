@@ -4,3 +4,4 @@
 [submodule "stellarator"]
 	path = stellarator
 	url = git@github.com:brunopq/stellarator.git
+	branch = master
